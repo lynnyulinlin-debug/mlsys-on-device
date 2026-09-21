@@ -1,2 +1,2 @@
-# mlsys_on_device
+# mlsys-on-device
 machine learning  system on device
